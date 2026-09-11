@@ -28,7 +28,7 @@ public class Painter extends Canvas{
 	public static final int sprSize = 16;
 	public static final int width = 16 * sprSize;
 	public static final int height = 12 * sprSize;
-	private static final int zoom = 4;
+	private static final int zoom = 6;
 	
 	// Métodos
 	
